@@ -1,6 +1,5 @@
 # Скрипт для конретации модели в формат model.plan
 
-### Запуск
 Запуск происходит через команду в корне 
 ```code
 ansible-playbook -i inventory.ini playbook.yml \
